@@ -12,6 +12,6 @@
 * erra karam
 
 # egg dosa
- 
+<<<<<<< HEAD
 * dosa batter
-* eggs and karam
+* 1/2 eggs and karam
