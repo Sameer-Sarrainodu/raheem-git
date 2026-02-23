@@ -8,4 +8,5 @@
 # karam dosa
 
 * dosa batter
-* Tella karam / Erra karam / goddu karam
+# Tella karam / Erra karam / goddu karam
+* erra karam
