@@ -24,5 +24,4 @@
 *tomato and panner scrambled
 *ghee
 *chicken masala
-
-
+*light oil
