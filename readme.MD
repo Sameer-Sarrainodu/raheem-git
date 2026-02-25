@@ -19,3 +19,8 @@
 # panner-dosa
 
 * dosa batter
+
+# Ghee-karam-dosa
+
+*dosa batter
+*ghee
