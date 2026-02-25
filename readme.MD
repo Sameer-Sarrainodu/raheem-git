@@ -19,3 +19,9 @@
 # panner-dosa
 
 * dosa batter
+* panner curry
+*carrot onion
+*tomato and panner scrambled
+*ghee
+*chicken masala
+*light oil
