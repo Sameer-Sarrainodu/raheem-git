@@ -15,3 +15,14 @@
  
 * dosa batter
 * eggs and karam
+
+# panner-dosa
+
+* dosa batter
+* panner curry
+*carrot onion
+*tomato and panner scrambled
+*ghee
+*chicken masala
+
+
