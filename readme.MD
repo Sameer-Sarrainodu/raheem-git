@@ -22,3 +22,4 @@
 * panner
 * ghee
 * garam-masala
+* methi
